@@ -1,0 +1,24 @@
+
+Ticket Number: 1
+Date: 03/10/2016_08:48:17
+
+Printer: BIZHUB C654E FOLLOWYOU needs to order: 
+Waste Bottle(s): 2
+Black Toner Cartridge(s): 2
+Yellow Toner Cartridge(s): 2
+Magenta Toner Cartridge(s): 2
+Cyan Toner Cartridge(s): 2
+
+Printer: BIZHUB C3550 needs to order: 
+Waste Bottle(s): 1
+Black Toner Cartridge(s): 1
+Yellow Toner Cartridge(s): 1
+Magenta Toner Cartridge(s): 1
+Cyan Toner Cartridge(s): 1
+
+Printer: C6000L 60PPM COLOR FIERY needs to order: 
+Waste Bottle(s): 1
+Black Toner Cartridge(s): 1
+Yellow Toner Cartridge(s): 1
+Magenta Toner Cartridge(s): 1
+Cyan Toner Cartridge(s): 1
